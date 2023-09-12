@@ -21,7 +21,7 @@ Crie uma experiência de checkout (pagamento) que contenha:
 O sistema deve-se utilizar as seguintes tecnologias
 
 - HTML e CSS
--  Bootstrap
+-  Bootstrap ou tailwind
 - JavaScript
 	- Pode-se utilizar Vanilla, jQuery, VueJS ou ReactJS
 
